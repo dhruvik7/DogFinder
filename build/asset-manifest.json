@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DogFinder/static/css/main.023e00f9.chunk.css",
+    "main.js": "/DogFinder/static/js/main.d64b9e37.chunk.js",
+    "main.js.map": "/DogFinder/static/js/main.d64b9e37.chunk.js.map",
+    "runtime-main.js": "/DogFinder/static/js/runtime-main.80f4ce80.js",
+    "runtime-main.js.map": "/DogFinder/static/js/runtime-main.80f4ce80.js.map",
+    "static/js/2.7face644.chunk.js": "/DogFinder/static/js/2.7face644.chunk.js",
+    "static/js/2.7face644.chunk.js.map": "/DogFinder/static/js/2.7face644.chunk.js.map",
+    "index.html": "/DogFinder/index.html",
+    "precache-manifest.565455f27bf5afbe3e93a09be898a64d.js": "/DogFinder/precache-manifest.565455f27bf5afbe3e93a09be898a64d.js",
+    "service-worker.js": "/DogFinder/service-worker.js",
+    "static/css/main.023e00f9.chunk.css.map": "/DogFinder/static/css/main.023e00f9.chunk.css.map",
+    "static/media/logo.svg": "/DogFinder/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80f4ce80.js",
+    "static/js/2.7face644.chunk.js",
+    "static/css/main.023e00f9.chunk.css",
+    "static/js/main.d64b9e37.chunk.js"
+  ]
+}
