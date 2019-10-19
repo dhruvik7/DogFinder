@@ -1,0 +1,8 @@
+.photo {
+  height: 40vh;
+  padding-bottom: 40px;
+}
+
+.gallery {
+  list-style-type: none;
+}
